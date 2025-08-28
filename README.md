@@ -1,69 +1,34 @@
-🎯 Streamlit Portfolio & Guessing Game
+🌟 My First Streamlit Portfolio & Guessing Game
 
-This project is an interactive Streamlit application that combines a personal portfolio with a fun number guessing game.
+This is my first Streamlit project 🎉 — a simple yet interactive web app that combines my personal portfolio with a fun number guessing game.
 
-📌 Features
+✨ Features
 🧑‍💻 Portfolio Section
 
-Introduction and career overview
+Welcome page with introduction
 
 Contact details (Email, LinkedIn, GitHub)
 
 Education background
 
-Technical skills
+Skills (Programming, Frameworks, Tools)
 
-Extracurricular activities
+Extracurricular interests
 
 🎮 Guessing Game Section
 
-User-friendly number guessing game
-
 Random number between 1 and 100
+
+Hints: “Too high” / “Too low”
 
 Tracks number of attempts
 
-Auto-resets once the correct number is guessed
+Resets after a correct guess
 
 🛠️ Tech Stack
 
 Python 3
 
-Streamlit (for interactive web app)
+Streamlit
 
-Random Module (for number generation)
-
-🚀 Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-
-Install dependencies
-
-pip install streamlit
-
-
-Run the app
-
-streamlit run app.py
-
-📂 Project Structure
-├── app.py        # Main Streamlit application
-├── README.md     # Project documentation
-
-📸 Screenshots (Optional)
-
-Portfolio Page
-
-Guessing Game in action
-
-📬 Contact
-
-📧 Email: vishnuanand0775@gmail.com
-
-💼 LinkedIn: Anand P
-
-💻 GitHub: Vishnu-beep-code
+Random module
